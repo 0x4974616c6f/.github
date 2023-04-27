@@ -26,7 +26,7 @@ Gostaria de contribuir com algum projeto ou propor um novo? Excelente! Nós valo
 
 ## Código de Conduta
 
-Nós valorizamos o respeito, a diversidade e a inclusão em nossa comunidade. Por isso, pedimos que todos os contribuidores sigam nosso [Código de Conduta](LINK_PARA_CODIGO_DE_CONDUTA.md) ao interagir com os membros e projetos desta organização.
+Nós valorizamos o respeito, a diversidade e a inclusão em nossa comunidade. Por isso, pedimos que todos os contribuidores sigam nosso [Código de Conduta](./CODE_OF_CONDUCT.md) ao interagir com os membros e projetos desta organização.
 
 ## Entre em contato
 
